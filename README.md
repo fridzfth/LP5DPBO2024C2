@@ -50,6 +50,4 @@ Kelas `Menu` memiliki method-method sebagai berikut:
 ### Tampilan Antarmuka Pengguna
 Program akan menampilkan jendela dengan tabel untuk menampilkan data mahasiswa, serta input form untuk menambah, mengupdate, dan menghapus data.
 
-![GUI](https://github.com/fridzfth/LP5DPBO2024C2/blob/1a317c6d44eb241c5e6d15e69966cc4ea18d037f/Screenshot%20Screenrecord/Screenshot%202024-03-15%20060401.png)
-
 [![SR](https://github.com/fridzfth/LP5DPBO2024C2/blob/1a317c6d44eb241c5e6d15e69966cc4ea18d037f/Screenshot%20Screenrecord/Screenshot%202024-03-15%20060401.png)](https://github.com/fridzfth/LP5DPBO2024C2/blob/46b0fcc88f39d68d73178865ad4a95875f28386f/Screenshot%20Screenrecord/2024-03-15%2006-39-36.mkv)
