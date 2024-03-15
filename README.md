@@ -1,5 +1,5 @@
-# README
-
+# README - LP5DPBO2024C2
+Saya Mohammad Faridz Fathin mengerjakan LP4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan
 ## Desain Program
 
 Program ini merupakan sebuah aplikasi sederhana untuk manajemen data mahasiswa. Program ini ditulis dalam bahasa pemrograman Java dan menggunakan library Swing untuk membangun antarmuka pengguna grafis (GUI). 
